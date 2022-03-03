@@ -16,9 +16,9 @@ keep_files:
 # Site settings
 title: Virtual National Air Traffic Controllers Association
 subtitle: "A union for VATUSA VATSIM controllers"
-url: "http://vnatca.github.io" # the base hostname & protocol for your site
+url: "http://nyartcc.github.io" # the base hostname & protocol for your site
 # baseurl: "/the/subpath/of/your/site" # Set this value to "" if you want your site to be root
-baseurl: ""
+baseurl: "/vnatca"
 cover: "/assets/cover.png"
 logo: "/assets/logo.png"
 

@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0f6a9cce-9f3a-41f5-9c6d-d15280bca8e6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vnatca.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.ignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
-    </list>
+    <list default="true" id="0f6a9cce-9f3a-41f5-9c6d-d15280bca8e6" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -43,7 +36,7 @@
       <option name="presentableId" value="Default" />
       <updated>1646337152111</updated>
       <workItem from="1646337154330" duration="249000" />
-      <workItem from="1646337415075" duration="750000" />
+      <workItem from="1646337415075" duration="829000" />
     </task>
     <servers />
   </component>
