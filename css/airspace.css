@@ -73,7 +73,10 @@ header .navbar {
   border: 0px;
 }
 header .navbar-brand {
-  padding-top: 5px;
+  margin-top: -20px;
+}
+header .navbar-brand img {
+  height: 70px;
 }
 header .navbar-default {
   background: none;
@@ -97,7 +100,7 @@ font header .navbar-default .navbar-nav li a:hover {
 	Slider Start
 --*/
 #slider {
-  background: url("../img/slider-bg.jpg") no-repeat;
+  background: url("../img/model-flight-control-room-evening.jpg") no-repeat;
   background-size: cover;
   background-attachment: fixed;
   background-position: 10% 0%;
@@ -231,7 +234,7 @@ font header .navbar-default .navbar-nav li a:hover {
 	Feature Start
 --*/
 #feature {
-  background: url("../img/featue-bg.jpg");
+  background: url("../img/ga -bg.jpg");
   background-position: 50% 94px;
   width: 100%;
   display: block;
