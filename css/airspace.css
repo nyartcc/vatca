@@ -315,9 +315,14 @@ font header .navbar-default .navbar-nav li a:hover {
   font-weight: 300;
   padding-bottom: 20px;
 }
+#testimonial .testimonial-carousel .user {
+  object-fit: cover;
+  position: relative;
+}
 #testimonial .testimonial-carousel .user img {
   padding-bottom: 0px;
   border-radius: 500px;
+  width: 40px;
 }
 #testimonial .testimonial-carousel .user p {
   padding-bottom: 0;
