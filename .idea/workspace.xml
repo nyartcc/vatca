@@ -1,21 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="816cab9c-94e1-444c-ab9d-2073cd953ef2" name="Changes" comment="Add updated content, testimonials etc.">
-      <change afterPath="$PROJECT_DIR$/img/android-chrome-192x192.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/android-chrome-256x256.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/apple-touch-icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/browserconfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/favicon-16x16.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/favicon-32x32.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/mstile-150x150.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/safari-pinned-tab.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/site.webmanifest" afterDir="false" />
+    <list default="true" id="816cab9c-94e1-444c-ab9d-2073cd953ef2" name="Changes" comment="Update logo">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.jekyll-metadata" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/head.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/head.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/footer.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/footer.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -67,7 +57,7 @@
       <method v="2" />
     </configuration>
     <configuration name="Jekyll Serve" type="ShConfigurationType">
-      <option name="SCRIPT_TEXT" value="bundle exec jekyll serve --incremental" />
+      <option name="SCRIPT_TEXT" value="bundle exec jekyll serve" />
       <option name="INDEPENDENT_SCRIPT_PATH" value="true" />
       <option name="SCRIPT_PATH" value="" />
       <option name="SCRIPT_OPTIONS" value="" />
@@ -96,7 +86,21 @@
       <option name="project" value="LOCAL" />
       <updated>1646388703216</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Add favicons">
+      <created>1646389269427</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1646389269427</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Update logo">
+      <created>1646390248922</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1646390248922</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -112,6 +116,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Add updated content, testimonials etc." />
-    <option name="LAST_COMMIT_MESSAGE" value="Add updated content, testimonials etc." />
+    <MESSAGE value="Add favicons" />
+    <MESSAGE value="Update logo" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update logo" />
   </component>
 </project>

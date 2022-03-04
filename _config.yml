@@ -18,7 +18,7 @@ title: Virtual National Air Traffic Controllers Association
 subtitle: "A union for VATUSA VATSIM controllers"
 url: "https://nyartcc.github.io" # the base hostname & protocol for your site
 # baseurl: "/the/subpath/of/your/site" # Set this value to "" if you want your site to be root
-baseurl: "/vnatca"
+baseurl: ""
 cover: "/assets/cover.png"
 logo: "/img/vNATCA-Logo.png"
 
