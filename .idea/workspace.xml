@@ -1,11 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="816cab9c-94e1-444c-ab9d-2073cd953ef2" name="Changes" comment="" />
+    <list default="true" id="816cab9c-94e1-444c-ab9d-2073cd953ef2" name="Changes" comment="Add updated content, testimonials etc.">
+      <change afterPath="$PROJECT_DIR$/img/android-chrome-192x192.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/android-chrome-256x256.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/apple-touch-icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/browserconfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/favicon-16x16.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/favicon-32x32.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/mstile-150x150.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/safari-pinned-tab.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/site.webmanifest" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/head.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/head.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitSEFilterConfiguration">
     <file-type-list>
@@ -15,11 +34,13 @@
       <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
     </file-type-list>
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/img" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/img" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
@@ -27,7 +48,7 @@
       <recent name="$PROJECT_DIR$/assets" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Shell Script.Jekyll Serve">
     <configuration name="Jekyll Serve Incremental" type="ShConfigurationType">
       <option name="SCRIPT_TEXT" value="bundle exec jekyll serve --incremental" />
       <option name="INDEPENDENT_SCRIPT_PATH" value="true" />
@@ -45,8 +66,52 @@
       </envs>
       <method v="2" />
     </configuration>
+    <configuration name="Jekyll Serve" type="ShConfigurationType">
+      <option name="SCRIPT_TEXT" value="bundle exec jekyll serve --incremental" />
+      <option name="INDEPENDENT_SCRIPT_PATH" value="true" />
+      <option name="SCRIPT_PATH" value="" />
+      <option name="SCRIPT_OPTIONS" value="" />
+      <option name="INDEPENDENT_SCRIPT_WORKING_DIRECTORY" value="true" />
+      <option name="SCRIPT_WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="INDEPENDENT_INTERPRETER_PATH" value="true" />
+      <option name="INTERPRETER_PATH" value="/bin/zsh" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="EXECUTE_IN_TERMINAL" value="true" />
+      <option name="EXECUTE_SCRIPT_FILE" value="false" />
+      <envs>
+        <env name="env" value="Dev" />
+      </envs>
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Shell Script.Jekyll Serve Incremental" />
+      <item itemvalue="Shell Script.Jekyll Serve" />
+    </list>
   </component>
   <component name="TaskManager">
+    <task id="LOCAL-00001" summary="Add updated content, testimonials etc.">
+      <created>1646388703216</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1646388703216</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Add updated content, testimonials etc." />
+    <option name="LAST_COMMIT_MESSAGE" value="Add updated content, testimonials etc." />
   </component>
 </project>
