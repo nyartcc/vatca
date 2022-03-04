@@ -1,12 +1,13 @@
 - counter: 2100
-  icon: ion-ios-chatboxes-outline
+  icon: fa-users
   text: Number of Controllers
-- counter: 1500
-  icon: ion-ios-glasses-outline
-  text: Gallons of Soft Drink
-- counter: 1200
-  icon: ion-ios-compose-outline
-  text: Whiteboard Markers
-- counter: 300
-  icon: ion-ios-timer-outline
-  text: Websites built
+- counter: 21
+  icon: fa-building
+  text: ARTCCs Served
+- counter: 250000
+  icon: fa-plane
+  text: Airplane Yearly Movements
+- counter: 1000
+  icon: fa-history
+  text: Montly Training Hours
+
