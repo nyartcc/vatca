@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="816cab9c-94e1-444c-ab9d-2073cd953ef2" name="Changes" comment="Update logo">
-      <change afterPath="$PROJECT_DIR$/_posts/2022-04-01-Press-Release.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2016-05-20-welcome-to-jekyll.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2016-05-20-welcome-to-jekyll.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,6 +35,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
@@ -119,7 +119,7 @@
       <updated>1646657778167</updated>
       <workItem from="1646657779815" duration="13000" />
       <workItem from="1646658704482" duration="36000" />
-      <workItem from="1647504802838" duration="1561000" />
+      <workItem from="1647504802838" duration="1732000" />
     </task>
     <option name="localTasksCounter" value="4" />
     <servers />
