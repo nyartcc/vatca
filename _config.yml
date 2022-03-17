@@ -25,7 +25,13 @@ logo: "/img/vNATCA-Logo.png"
 # Build settings
 markdown: kramdown
 
+# Google analytics
+# ga_tracking_id: "UA-XXXX-1"
+
 # Category descriptions (for archive pages)
 descriptions:
   - cat: VATCA
     desc: "Posts describing VATCA"
+
+  - cat: dummy
+    desc: "Just some placeholder posts, lorem ipsum and the rest."
