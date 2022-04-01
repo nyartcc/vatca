@@ -3,7 +3,7 @@ layout: post
 title: Press Release
 subtitle: VATUSA members announces they are unionizing
 date: 2022-04-01 00:01:00
-author: VATCA Union President
+author: Dory Cavis - VATCA Union President
 ---
 For immediate release.
 

@@ -2,7 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="816cab9c-94e1-444c-ab9d-2073cd953ef2" name="Changes" comment="Update logo">
-      <change beforePath="$PROJECT_DIR$/_data/testimonials.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_data/testimonials.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/header.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/header.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2016-05-20-my-example-post.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2022-04-01-Press-Release.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2022-04-01-Press-Release.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/contact.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -119,7 +124,7 @@
       <workItem from="1646657779815" duration="13000" />
       <workItem from="1646658704482" duration="36000" />
       <workItem from="1647504802838" duration="2920000" />
-      <workItem from="1648801622043" duration="511000" />
+      <workItem from="1648801622043" duration="666000" />
     </task>
     <option name="localTasksCounter" value="4" />
     <servers />
