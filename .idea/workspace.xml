@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="816cab9c-94e1-444c-ab9d-2073cd953ef2" name="Changes" comment="Update logo">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_data/funfacts.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_data/funfacts.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_data/testimonials.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_data/testimonials.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -121,7 +120,7 @@
       <workItem from="1646658704482" duration="36000" />
       <workItem from="1647504802838" duration="2920000" />
       <workItem from="1648801622043" duration="1838000" />
-      <workItem from="1648808775985" duration="19000" />
+      <workItem from="1648808775985" duration="169000" />
     </task>
     <option name="localTasksCounter" value="4" />
     <servers />
